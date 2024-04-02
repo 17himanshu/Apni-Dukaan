@@ -1,4 +1,4 @@
-# E-Shop
+# Apni Dukaan
 
 This is a full-stack E-Commerce project built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to browse products, add them to their cart, and complete the checkout process.
 

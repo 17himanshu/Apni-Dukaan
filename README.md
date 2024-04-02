@@ -68,7 +68,7 @@ This is a full-stack E-Commerce project built using the MERN (MongoDB, Express.j
 
 3. **Set up environment variables: Frontend**
 
-   Create a `.env` file in the client directory and add `REACT_APP_BASEURL=https://e-shop-backend-akb.vercel.app` i.e url of my backend api
+   Create a `.env` file in the client directory and add `REACT_APP_BASEURL=https://apni-dukaan-suwl.onrender.com` i.e url of my backend api
 
 4. **To run locally**
    - cd client and run `npm start`
